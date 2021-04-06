@@ -1,0 +1,62 @@
+.home-container{
+
+  .example-header-image {
+    background-size: cover;
+  }
+
+  mat-toolbar{
+    background-color: black;
+    color: white;
+    margin-bottom: 5px;
+  }
+
+  .products-route{
+    color: white;
+    text-decoration: none;
+  }
+
+  .header{
+    background-color: black;
+    align-items: center;
+    color: white;
+    height: 50px;
+  }
+
+  button{
+    outline: none !important;
+  }
+
+  .quantity{
+    width: 60px !important;
+    text-align: center;
+  }
+
+  img{
+    height: 500px;
+  }
+
+  .col-4{
+    margin-bottom: 10px;
+  }
+
+  span{
+    font-size: 14pt;
+    margin-right: 10px;
+  }
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  @media(max-width: 880px){
+    img{
+      height: 300px;
+    }
+  }
+
+  @media(max-width: 640px){
+    img{
+      height: 200px;
+    }
+  }
+}

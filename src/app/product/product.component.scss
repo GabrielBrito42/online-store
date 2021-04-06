@@ -1,0 +1,35 @@
+.product-container{
+  span{
+    font-size: 14pt;
+    margin-right: 10px;
+  }
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  mat-toolbar{
+    background-color: black;
+    color: white;
+  }
+
+  img{
+    width: 100%;
+    margin-top: 5px;
+  }
+
+  .buy-button{
+    width: 100%;
+    background-color: #58a6ff;
+  }
+
+  .quantity{
+    width: 60px !important;
+    text-align: center;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+}

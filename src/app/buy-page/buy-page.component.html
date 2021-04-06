@@ -1,0 +1,33 @@
+<div class="buy-page-component">
+  <mat-toolbar>
+    <a routerLink="/"><span>Produtos</span></a>
+    <span class="example-spacer"></span>
+  </mat-toolbar>
+  <div class="container">
+    <div class="row">
+      <div class="col-12" *ngFor="let cartItem of cartProducts">
+        <div class="row align-items-center">
+          <div class="col-10">
+            <span>R${{cartItem.price}},00 | </span><span>{{cartItem.name}}</span><span>X {{cartItem.total}}</span>
+          </div>
+          <div class="col-2">
+            <img src="{{cartItem.image}}"/>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-12">
+        <span>Valor total: R${{orderValue}},00</span>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-6">
+        <button class="buy-button" mat-button (click)="cancelOrder()">Cancelar</button>
+      </div>
+      <div class="col-6">
+        <button class="buy-button" mat-button (click)="buy()">Finalizar Compra</button>
+      </div>
+    </div>
+  </div>
+</div>

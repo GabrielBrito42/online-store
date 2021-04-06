@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Minecraft",
+    "platform": "XBOX 360",
+    "value": 180,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91NUBo2SGPL._AC_SL1500_.jpg",
+    "quantity": 6,
+    "description": "Minecraft é um jogo eletrônico sandbox de sobrevivência criado pelo desenvolvedor sueco Markus Notch Persson e posteriormente desenvolvido e publicado pela Mojang Studios, cuja propriedade intelectual foi obtida pela Microsoft em 2014. Lançado inicialmente em maio de 2009 como um projeto em desenvolvimento, seu lançamento completo ocorreu em novembro de 2011 para Microsoft Windows, macOS e Linux, sendo posteriormente relançado para uma ampla variedade de plataformas. É o jogo mais vendido de todos os tempos, vendendo mais de 200 milhões de cópias em todas as plataformas até maio de 2020, com mais de 126 milhões de jogadores ativos mensalmente."
+  },
+  {
+    "id": 2,
+    "name": "Minecraft",
+    "platform": "PS3",
+    "value": 150,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71WH%2B4BJ4zL._AC_SL1500_.jpg",
+    "quantity": 10,
+    "description": "Minecraft é um jogo eletrônico sandbox de sobrevivência criado pelo desenvolvedor sueco Markus Notch Persson e posteriormente desenvolvido e publicado pela Mojang Studios, cuja propriedade intelectual foi obtida pela Microsoft em 2014. Lançado inicialmente em maio de 2009 como um projeto em desenvolvimento, seu lançamento completo ocorreu em novembro de 2011 para Microsoft Windows, macOS e Linux, sendo posteriormente relançado para uma ampla variedade de plataformas. É o jogo mais vendido de todos os tempos, vendendo mais de 200 milhões de cópias em todas as plataformas até maio de 2020, com mais de 126 milhões de jogadores ativos mensalmente."
+  },
+  {
+    "id": 3,
+    "name": "Kingdom Hearts 3",
+    "platform": "PC",
+    "value": 250,
+    "cover": "https://cdn2.unrealengine.com/egs-kingdomheartsiiireminddlc-squareenix-s6-1200x1600-d29865a1db73.jpg",
+    "quantity": 30,
+    "description": "Kingdom Hearts III (キングダム ハーツIII Kingudamu Hātsu Surī?) é um jogo eletrônico do gênero RPG de ação desenvolvido e publicado pela Square Enix e distribuído pela Disney Interactive Studios para o PlayStation 4 e Xbox One. Ele é o terceiro jogo principal da série Kingdom Hearts e o décimo primeiro título geral da série. A conceitualização do jogo começou por volta de 2006, logo após o lançamento japonês de Kingdom Hearts II: Final Mix, com o jogo sendo apenas confirmado oficialmente durante a Electronic Entertainment Expo de 2013 após anos de rumores e especulações. Kingdom Hearts III se passa após os eventos mostrados em Kingdom Hearts 3D: Dream Drop Distance, tendo o protagonista Sora se juntando com o Pato Donald, Pateta, Rei Mickey e Riku em sua busca dos sete guardiões da luz e da 'Chave para Retornar Corações' enquanto tentam frustrar os planos do Mestre Xehanort de iniciar uma guerra devastadora. Sua jornada os faz cruzar caminhos com personagens e visitar mundos baseados em diferentes propriedades da Disney e da Pixar. O jogo foi construído usando a Unreal Engine 4."
+  },
+  {
+    "id": 4,
+    "name": "Call of Duty Black: Ops Cold War",
+    "platform": "PC",
+    "value": 300,
+    "cover": "https://store-images.s-microsoft.com/image/apps.25992.14107985044965209.e8fed65f-093d-40d1-849f-6c564d2ad876.89955624-8043-4f20-8620-4381e11a3546",
+    "quantity": 20,
+    "description": "Call of Duty: Black Ops Cold War é um jogo de tiro em primeira pessoa desenvolvido pela Treyarch e Raven Software e publicado pela Activision.[3][4] É o quinto jogo da série Black Ops, e o décimo sétimo jogo da série Call of Duty ao todo. Serve como uma sequência direta de Call of Duty: Black Ops (2010) e uma prequela direta de Call of Duty: Black Ops II (2012). Call of Duty: Black Ops Cold War foi lançado em 13 de novembro de 2020. A revelação mundial da campanha foi em 26 de agosto de 2020, enquanto o do multiplayer chegou em 9 de setembro. Black Ops Cold War se passa nos anos 1980 da Guerra Fria. A campanha segue Russell Adler, um operador da CIA, em perseguição com um suposto espião soviético, Perseus, cujo objetivo declarado é subverter os Estados Unidos e inclinar o equilíbrio de poder em direção à União Soviética."
+  },
+  {
+    "id": 5,
+    "name": "NieR:Automata",
+    "platform": "PC",
+    "value": 150,
+    "cover": "https://gamerhash.com/storage/mobile-products/tILaWhyEfb7pWRUQu8nWP35kQ0wOTkxkovWxOKxk.jpeg",
+    "quantity": 8,
+    "description": "Nier: Automata (ニーア オートマタ Nīa Ōtomata?) é um jogo eletrônico de RPG de ação hack and slash desenvolvido pela PlatinumGames e publicado pela Square Enix. Foi lançado em fevereiro de 2017 no Japão e mundialmente no mês seguinte para PlayStation 4 e Microsoft Windows, com uma versão para Xbox One estreando em junho de 2018. O jogo é uma sequência de Nier, um spin-off da série Drakengard. A história se passa milhares de anos no futuro em meio a uma guerra por procuração entre máquinas criadas por invasores alienígenas e andróides concebidos pelos remanescentes da humanidade, acompanhando os andróides 2B, 9S e A2. A jogabilidade combina elementos de RPG com um combate voltado para a ação e uma mistura de outros gêneros. O desenvolvimento começou em 2014, com o diretor Yoko Taro, o produtor Yosuke Saito e os compositores Keiichi Okabe e Keigo Hoashi retornando nas mesmas funções que tinham desempenhado no Nier original. A história foi baseada ao redor de temas similares aos trabalhos anteriores de Yoko, como o impulso para matar, ao mesmo tempo incorporando questões como o confronto do preconceito e a fuga de situações difíceis. O objetivo era fazer um jogo fiel ao espírito do original, mas que simultaneamente possuísse uma jogabilidade de combate melhor. A equipe da PlatinumGames enfrentou vários desafios no desenvolvimento das diversas mecânicas de jogo e do mundo aberto já que o estilo projeto era inteiramente novo para eles."
+  },
+  {
+    "id": 6,
+    "name": "The las of us 2",
+    "platform": "PS4",
+    "value": 250,
+    "cover": "https://dcminfo.com.br/images/products/6728_1.jpg",
+    "quantity": 50,
+    "description": "The Last of Us Part II é um jogo eletrônico de ação-aventura desenvolvido pela Naughty Dog e publicado pela Sony Interactive Entertainment. É o segundo jogo da franquia e foi lançado em 19 de junho de 2020 exclusivamente para PlayStation 4. Ambientado cinco anos após os eventos de The Last of Us (2013), o jogador assume o papel de duas protagonistas em um Estados Unidos pós-apocalíptico: Ellie, que busca por vingança após um evento traumático, e Abby, uma soldada que se envolve em um conflito entre uma milícia e um culto. O jogo contém elementos de survival horror e é jogado numa perspectiva de terceira pessoa. Os jogadores podem usar armas de fogo, arcos, armas improvisadas, esquiva e furtividade para se defenderem de seres humanos hostis e criaturas infectadas por uma mutação do fungo Cordyceps. Seu desenvolvimento durou seis anos, pouco depois do lançamento de Remastered (2014). O jogo foi oficialmente revelado durante o evento PlayStation Experience em dezembro de 2016. Neil Druckmann retornou como diretor criativo e escritor, juntamente com Halley Gross. A temática do jogo, que aborda sobre vingança e retribuição, foram inspirados nas experiências de Druckmann crescendo em Israel. A atriz Ashley Johnson repete seu papel como Ellie, enquanto Laura Bailey foi escalada como Abby. Suas performances incluíram a captura simultânea de movimento e voz. Os desenvolvedores impulsionaram os recursos técnicos do PlayStation 4 durante o desenvolvimento. O músico Gustavo Santaolalla voltou a compor e executar a partitura. O desenvolvimento supostamente incluiu uma agenda de 12 horas de jornada de trabalho, recebendo alguns adiamentos em decorrência também da pandemia de COVID-19."
+  },
+  {
+    "id": 7,
+    "name": "God of War",
+    "platform": "PS4",
+    "value": 250,
+    "cover": "https://www.gamingdragons.com/images/game_img/gow4_ps4.jpg",
+    "quantity": 40,
+    "description": "God of War é uma série de jogos eletrônicos de ação-aventura vagamente baseado nas mitologias grega e nórdica sendo criado originalmente por David Jaffe da Santa Monica Studio. Iniciada em 2005, a série tornou-se carro-chefe para a marca PlayStation, que consiste em oito jogos em várias plataformas. A história centra-se em torno de seu personagem, Kratos, um guerreiro espartano enganado para matar sua esposa e filha por seu antigo mestre, o deus da guerra Ares. Kratos mata Ares a mando da deusa Atena e toma seu lugar como o novo deus da guerra, mas ainda é assombrado por pesadelos de seu passado. Posteriormente é revelado ser um semideus e filho de Zeus, o rei dos deuses do Olimpo, que trai Kratos. O espartano em seguida busca vingança contra os deuses por suas maquinações. O que se segue na primeira era da série é uma tentativa de libertar-se da influência dos deuses, bem como dos titãs, e da vingança exata. Muitos anos depois de se vingar dos deuses gregos, Kratos acaba no mundo dos deuses nórdicos com um filho chamado Atreus e dá uma volta pelo bem. A Santa Monica Studio desenvolveu todos os títulos principais, enquanto a Ready at Dawn e a Javaground/Sony Online Entertainment-Los Angeles (SOE-LA) desenvolveram os três jogos paralelos. A Sony Interactive Entertainment (SIE; anteriormente: Sony Computer Entertainment) publicou todos os jogos, exceto o título de telefone celular, que foi publicado pela Sony Pictures Digital. Existem duas eras na série God of War. A primeira era são os primeiros sete jogos, baseados na mitologia grega, com a vingança sendo o motivo central. God of War (2005), God of War II (2007) e God of War III (2010) compõem a sua principal trilogia; os dois primeiros foram lançados no PlayStation 2 e o terceiro no PlayStation 3. O quarto título principal, Ascension (2013), é uma prequela para toda a série, também foi lançado para o PlayStation 3 e possui modo multijogador. Os três jogos secundários incluem Chains of Olympus (2008) e Ghost of Sparta (2010) para o PlayStation Portable (PSP) e Betrayal (2007) para telefones celulares que suportam a plataforma Java, Micro Edition (Java ME). O quinto título principal, também intitulado God of War (2018), foi lançado para o PlayStation 4. É o começo da segunda era, que leva a franquia ao mundo da mitologia nórdica. Para acompanhar o título, a Sony lançou uma curta história de prequela, A Call from the Wilds (2018), como um jogo baseado em texto através do Facebook Messenger. Um sexto jogo principal ainda sem título, está em desenvolvimento e previsto para ser lançado em 2021 para o PlayStation 5."
+  },
+  {
+    "id": 8,
+    "name": "The Legend of Zelda Breath of the Wild",
+    "platform": "Nintendo Switch",
+    "value": 300,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81KGsbq8ekL._AC_SL1500_.jpg",
+    "quantity": 20,
+    "description": "The Legend of Zelda: Breath of the Wild (ゼルダの伝説 ブレス オブ ザ ワイルド Zeruda no Densetsu: Buresu obu za Wairudo?) é um jogo eletrônico de ação-aventura desenvolvido pela Nintendo Entertainment Planning & Development e publicado pela Nintendo. É o décimo nono título da série The Legend of Zelda e foi lançado mundialmente para Wii U e Nintendo Switch em 3 de março de 2017. A história segue Link, que acorda em uma Hyrule devastada após cem anos de sono e precisa recuperar suas memórias e derrotar o mal causado por Calamity Ganon. A jogabilidade é apresentada em um mundo aberto e os jogadores podem explorá-lo livremente, completando diferentes tipos de missões e resolvendo quebra-cabeças para a obtenção de recompensas. O desenvolvimento de Breath of the Wild começou pouco depois da estreia de The Legend of Zelda: Skyward Sword e durou cinco anos. A equipe tinha a intenção de reinventar a estrutura da série, assim introduziram elementos inéditos como um motor de física detalhado, visuais em alta definição e dublagem. O mundo de jogo foi projetado para recompensar exploração e experimentação, com a história sendo pensada para poder ser completada de forma não-linear. Breath of the Wild originalmente tinha previsão de lançamento para 2015 como um exclusivo de Wii U, porém foi adiado duas vezes por problemas de desenvolvimento. Ele acabou servindo como um dos títulos de lançamento do Switch e o último jogo publicado pela Nintendo para o Wii U."
+  },
+  {
+    "id": 9,
+    "name": "Gears of War 5",
+    "platform": "Xbox One",
+    "value": 300,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91Mcd8M19VL._AC_SL1500_.jpg",
+    "quantity": 25,
+    "description": "Gears 5 é um jogo eletrônico de tiro em terceira pessoa desenvolvido pela The Coalition e publicado pela Xbox Game Studios. Foi lançado em 6 de setembro de 2019 para Xbox One e Windows 10 como parte do Xbox Play Anywhere. É o sexto título da série Gears of War e a continuação de Gears of War 4 (2016). Gears 5 foca em Kait Diaz (Laura Bailey), uma descendente da estranha Locust. Como Kait, o jogador deve descobrir as origens da família de Locust e Kait. O protagonista de Gears of War 4, JD Fenix (Liam McIntyre), seu amigo Delmont Walker (Eugene Byrd) e o pai de JD, Marcus Fenix (John DiMaggio) também retornam."
+  },
+  {
+    "id": 10,
+    "name": "Death Stranding",
+    "platform": "PS4",
+    "value": 300,
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/61L0yZsbzxL._SX466_.jpg",
+    "quantity": 35,
+    "description": "Death Stranding (デス・ストランディング Desu Sutorandingu?) é um jogo eletrônico de ação desenvolvido pela Kojima Productions e publicado pela Sony Interactive Entertainment. Foi lançado no dia 8 de novembro de 2019 para PlayStation 4 e em 14 de julho de 2020 para Microsoft Windows.[4][5] É o primeiro jogo da companhia e seu diretor Hideo Kojima após a dissolução da empresa como subsidiária da Konami, em 2015. O seu elenco conta com os atores Norman Reedus, Troy Baker, Mads Mikkelsen, Léa Seydoux e Lindsay Wagner. O diretor Guillermo del Toro também aparece no jogo, mas sua voz e movimentos foram capturados por outra pessoa. O título refere-se ao fenômeno do arrojamento, em que animais marinhos encalham em praias. Death Stranding foi anunciado oficialmente durante a conferência de imprensa da Sony na Electronic Entertainment Expo de 2016. Seu desenvolvimento completo começou em 2017 utilizando o motor de jogo Decima, criado originalmente pela Guerrilla Games e aprimorado por esta e pela Kojima Productions. Um dos principais aspectos do jogo é a conexão entre vida e morte, com Kojima inspirando-se em um conto do escritor Kōbō Abe (Bō ni natta otoko) para o desenvolvimento dos temas e jogabilidade do título."
+  }
+]

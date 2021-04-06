@@ -1,0 +1,35 @@
+<div class="home-container">
+  <mat-toolbar>
+    <a routerLink="/" class="products-route"><span>Produtos</span></a>
+    <span class="example-spacer"></span>
+    {{this.cartItens}}<button mat-button [matMenuTriggerFor]="cart"><mat-icon>shopping_cart</mat-icon></button>
+    <mat-menu #cart="matMenu">
+      <div *ngFor="let shopping_itens of shoppingCart">
+        <p>{{shopping_itens.total}} | {{shopping_itens.name}} - {{shopping_itens.platform}}</p>
+      </div>
+      <span>R${{orderValue}},00</span>
+     <button mat-menu-item (click)="goToBuyPage()">Comprar</button>
+    </mat-menu>
+  </mat-toolbar>
+  <div class="container">
+    <div class="row">
+      <div class="col-4" *ngFor="let product of products">
+        <mat-card class="example-card">
+          <img mat-card-image src="{{product.cover}}" alt="Photo of a Shiba Inu">
+          <mat-card-content>
+            <p>Plataforma: {{product.platform}}</p>
+            <p>Preço: R${{product.value}},00</p>
+            <p>Estoque: {{product.quantity}}</p>
+          </mat-card-content>
+          <mat-card-actions>
+            <button mat-button (click)="addProduct(product.id)"><mat-icon>add_shopping_cart</mat-icon></button>
+            <mat-form-field class="quantity">
+              <input type="number" matInput placeholder="1" (change)="setQuantity($event)" max="{{product.quantity}}" min="0">
+            </mat-form-field>
+            <a [routerLink]="['/product', product.id]"><button mat-button>Detalhes</button></a>
+          </mat-card-actions>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>
