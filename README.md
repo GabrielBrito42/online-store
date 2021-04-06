@@ -1,3 +1,7 @@
+
+![online-store](https://user-images.githubusercontent.com/32067188/113752684-9f57b500-96e3-11eb-9dfb-e9152c82ecc4.PNG)
+
+
 # OnlineStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
